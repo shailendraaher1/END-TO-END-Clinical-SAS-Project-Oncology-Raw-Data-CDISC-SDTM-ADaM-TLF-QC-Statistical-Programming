@@ -64,6 +64,32 @@ This project showcases a complete, industry-standard clinical data transformatio
 
 ---
 
+## 📊 Complete Project Inventory & Data Traceability
+
+### 1. Raw Data (9 Domains)
+* **Patient & Disposition:** DM, DS
+* **Safety Data:** AE, LB, VS, EX
+* **Oncology Specific:** TU, TR, RS
+
+### 2. SDTM Implementation (14 Domains)
+* **9 Parent Domains:** DM, DS, AE, LB, VS, EX, TU, TR, RS
+* **5 Supplemental Domains:** SUPPDM, SUPPAE, SUPPPEX, SUPPLB, SUPPVS
+
+### 3. ADaM Datasets (6 Analysis-Ready Datasets)
+* **ADSL:** Subject Level Analysis (from DM + DS + EX)
+* **ADAE:** Adverse Events Analysis (from AE + ADSL)
+* **ADLB:** Laboratory Analysis (from LB + ADSL)
+* **ADVS:** Vital Signs Analysis (from VS + ADSL)
+* **ADRESP:** Tumor Response Analysis (from ADSL + RS)
+* **ADTTE:** Time-to-Event Analysis (from ADSL + ADVS)
+
+### 4. Statistical Outputs - TLFs (15 Total)
+* **Tables (7):** Demographics, Exposure, TEAE, ORR, BOR, Lab Toxicity, Overall Survival.
+* **Listings (5):** Subject Listing, AE Listing, Lab Results, Tumor Response, Time-to-Event.
+* **Figures (3):** KM Plot (OS), KM Plot (PFS), Bar Chart (Best Overall Response) using `PROC SGPLOT` & `PROC LIFETEST`.
+
+---
+
 ## 📂 Project Repository Structure
 1. **1. Raw Data ( CDM Export )** - Raw clinical trial datasets in CSV format
 2. **2. SDTM Datasets** - Implement SDTM domains with SAS programs and specifications
@@ -77,70 +103,48 @@ This project showcases a complete, industry-standard clinical data transformatio
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 🔍 Quality Control & Validation Strategy
+* **The Validation Methodology:** Independent Double Programming Logic (IDP) used where the exact same dataset is executed using a different production/validation code to compare results.
+* **List of QC Performed:**
+  * **QC_T1 & QC_T2:** Demographic and Exposure Tables verification.
+  * **QC_L1 & QC_L2:** Subject and Adverse Event Listings review.
+  * **QC_F1 & QC_F2:** Kaplan-Meier Overall Survival and Progression-Free Survival Plots validation.
+* **Outcome:** All programs successfully passed the independent QC check with identical results.
+
+---
+
+## 🔄 End-To-End Traceability Matrix (The Data Journey)
+| Data Stage | Total Files | Key Components / Domains | Industry Standard |
+| :--- | :--- | :--- | :--- |
+| **1. Raw Input** | 09 Files | DM, AE, EX, LB, VS, TU, TR, RS, DS | CDM Export (CSV) |
+| **2. SDTM** | 14 Domains | DM, AE, EX, LB, VS, TU, TR, RS, DS + 5 SUPP Domains | CDISC SDTM v3.2 |
+| **3. ADaM** | 06 Datasets | ADSL, ADAE, ADLB, ADVS, ADRESP, ADTTE | CDISC ADaM v1.1 |
+| **4. TLF Output** | 15 Outputs | 07 Tables, 05 Listings, 03 Figures (KM Plot) | ICH E3 Guidelines |
+
+---
+
+## 📈 Results - 1. Demographics & Baseline Characteristics
+* **Patient Profile Summary:** Total Sample Size $N = 500$ (Synthetic Population successfully processed).
+* **Demographic Distribution:** Accurately summarized Age, Sex, Race, and ECOG status across both Arms (Arm A: 250, Arm B: 250).
+* **Key Programming Metrics:** All demographic variables were analyzed and formatted using **SAS PROC REPORT**.
+
+---
+
+## 📉 2. Efficacy Analysis Results : Overall Survival & Hypothesis Validation
+* **Statistical Method:** Statistical Hypothesis Testing on Synthetic Data using **SAS PROC LIFETEST**.
+* **Statistical Decision:** Since the SAS pipeline accurately processed data without errors:
+  * ❌ **REJECTED:** Null Hypothesis ($H_0$) — Code fails to process/report accurately.
+  * ✅ **ACCEPTED:** Alternative Hypothesis ($H_1$) — SAS framework successfully transforms and reports oncology data.
+
+---
+
+## 🛡️ 3. Safety Analysis : Adverse Events (AE) Summary
+* **Summary of Side Effects:** 
+  * *Subjects with TEAE:* Arm A ($69.2\%$) vs. Arm B ($77.2\%$).
+  * *Serious Adverse Events (SAE):* Arm A ($32.0\%$) vs. Arm B ($34.8\%$).
+* **Key Findings:** 
+  * **Better Profile:** SAS analysis confirms Pembrolizumab (Arm A) has fewer side effects compared to Chemotherapy (Arm B).
+  * **Programming Accuracy:** **SAS PROC REPORT** was used to ensure percentage calculations match the ITT (Intent-to-Treat) population count.
 
 ---
 
@@ -216,27 +220,7 @@ This project showcases a complete, industry-standard clinical data transformatio
 * **Email:** [shailendraaher21@gmail.com](mailto:shailendraaher21@gmail.com)
 * **LinkedIn:** [linkedin.com/in/shailendra-aher](https://www.linkedin.com/in/shailendra-aher)
 
+---
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
