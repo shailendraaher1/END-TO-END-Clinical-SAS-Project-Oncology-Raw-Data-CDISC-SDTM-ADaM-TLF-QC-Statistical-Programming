@@ -1,0 +1,2 @@
+# END-TO-END-Clinical-SAS-Project-Oncology-Raw-Data-CDISC-SDTM-ADaM-TLF-QC-Statistical-Programming
+This project showcases an end-to-end clinical Trial data transformation workflow for a Phase III Oncology (Lung Cancer) clinical trial (ONCO-PEMBRO-500) using SAS OnDemand. It demonstrates complete CDISC implementation from simulated raw data to SDTM mapping, ADaM analysis-ready datasets, and regulatory-compliant TLFs with QC validation.
