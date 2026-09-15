@@ -125,7 +125,6 @@ This project showcases a complete, industry-standard clinical data transformatio
 * **Statistical Method:** Statistical Hypothesis Testing on Synthetic Data using **SAS PROC LIFETEST**.
 * **Statistical Decision:** Since the SAS pipeline accurately processed data without errors:
 
-  
   <br>
   
   * ❌ **REJECTED:** Null Hypothesis ($H_0$) — Code fails to process/report accurately.
@@ -137,9 +136,7 @@ This project showcases a complete, industry-standard clinical data transformatio
 * **Summary of Side Effects:** 
   * *Subjects with TEAE:* Arm A ($69.2\%$) vs. Arm B ($77.2\%$).
   * *Serious Adverse Events (SAE):* Arm A ($32.0\%$) vs. Arm B ($34.8\%$).
-    
     <br>
-    
 * **Key Findings:** 
   * **Better Profile:** SAS analysis confirms Pembrolizumab (Arm A) has fewer side effects compared to Chemotherapy (Arm B).
   * **Programming Accuracy:** **SAS PROC REPORT** was used to ensure percentage calculations match the ITT (Intent-to-Treat) population count.
