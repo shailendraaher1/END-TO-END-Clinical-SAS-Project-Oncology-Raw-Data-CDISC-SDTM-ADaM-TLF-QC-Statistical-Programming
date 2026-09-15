@@ -122,6 +122,10 @@ This project showcases a complete, industry-standard clinical data transformatio
 ## 📉 2. Efficacy Analysis Results : Overall Survival & Hypothesis Validation
 * **Statistical Method:** Statistical Hypothesis Testing on Synthetic Data using **SAS PROC LIFETEST**.
 * **Statistical Decision:** Since the SAS pipeline accurately processed data without errors:
+
+  
+  <br>
+  
   * ❌ **REJECTED:** Null Hypothesis ($H_0$) — Code fails to process/report accurately.
   * ✅ **ACCEPTED:** Alternative Hypothesis ($H_1$) — SAS framework successfully transforms and reports oncology data.
 
