@@ -1,0 +1,501 @@
+STUDYID,DOMAIN,USUBJID,DSSEQ,DSTERM,DSCAT,DSDECOD,DSREASND,DSSTDTC,VISIT,VISITNUM,SITEID,SUBJID,DS_CAT,DS_TERM,DS_DECOD,DS_REASON,DS_DT
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-22,1,Study Completed,Study Participation,COMPLETED,,23586,End of Study,99,S01,22,Study Participation,Study Completed,COMPLETED,,2024-07-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-36,2,Study Completed,Study Participation,COMPLETED,,23589,End of Study,99,S01,36,Study Participation,Study Completed,COMPLETED,,2024-08-01
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-46,3,Study Completed,Study Participation,COMPLETED,,23633,End of Study,99,S01,46,Study Participation,Study Completed,COMPLETED,,2024-09-14
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-86,4,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23654,End of Treatment,90,S01,86,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2024-10-05
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-96,5,Study Completed,Study Participation,COMPLETED,,23732,End of Study,99,S01,96,Study Participation,Study Completed,COMPLETED,,2024-12-22
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-97,6,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23615,End of Treatment,90,S01,97,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2024-08-27
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-116,7,Study Completed,Study Participation,COMPLETED,,23700,End of Study,99,S01,116,Study Participation,Study Completed,COMPLETED,,2024-11-20
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-134,8,Study Completed,Study Participation,COMPLETED,,23646,End of Study,99,S01,134,Study Participation,Study Completed,COMPLETED,,2024-09-27
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-141,9,Study Completed,Study Participation,COMPLETED,,23588,End of Study,99,S01,141,Study Participation,Study Completed,COMPLETED,,2024-07-31
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-142,10,Study Completed,Study Participation,COMPLETED,,23690,End of Study,99,S01,142,Study Participation,Study Completed,COMPLETED,,2024-11-10
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-144,11,Study Completed,Study Participation,COMPLETED,,23583,End of Study,99,S01,144,Study Participation,Study Completed,COMPLETED,,2024-07-26
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-157,12,Study Completed,Study Participation,COMPLETED,,23593,End of Study,99,S01,157,Study Participation,Study Completed,COMPLETED,,2024-08-05
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-163,13,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23579,End of Treatment,90,S01,163,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-07-22
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-172,14,Study Completed,Study Participation,COMPLETED,,23695,End of Study,99,S01,172,Study Participation,Study Completed,COMPLETED,,2024-11-15
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-175,15,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Adverse Event,23611,End of Treatment,90,S01,175,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Adverse Event,2024-08-23
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-205,16,Study Completed,Study Participation,COMPLETED,,23718,End of Study,99,S01,205,Study Participation,Study Completed,COMPLETED,,2024-12-08
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-214,17,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23643,End of Treatment,90,S01,214,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-09-24
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-230,18,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23617,End of Treatment,90,S01,230,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2024-08-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-234,19,Study Completed,Study Participation,COMPLETED,,23587,End of Study,99,S01,234,Study Participation,Study Completed,COMPLETED,,2024-07-30
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-235,20,Study Completed,Study Participation,COMPLETED,,23704,End of Study,99,S01,235,Study Participation,Study Completed,COMPLETED,,2024-11-24
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-243,21,Study Completed,Study Participation,COMPLETED,,23722,End of Study,99,S01,243,Study Participation,Study Completed,COMPLETED,,2024-12-12
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-248,22,Study Completed,Study Participation,COMPLETED,,23652,End of Study,99,S01,248,Study Participation,Study Completed,COMPLETED,,2024-10-03
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-269,23,Study Completed,Study Participation,COMPLETED,,23675,End of Study,99,S01,269,Study Participation,Study Completed,COMPLETED,,2024-10-26
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-279,24,Study Completed,Study Participation,COMPLETED,,23735,End of Study,99,S01,279,Study Participation,Study Completed,COMPLETED,,2024-12-25
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-287,25,Study Completed,Study Participation,COMPLETED,,23699,End of Study,99,S01,287,Study Participation,Study Completed,COMPLETED,,2024-11-19
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-290,26,Study Completed,Study Participation,COMPLETED,,23614,End of Study,99,S01,290,Study Participation,Study Completed,COMPLETED,,2024-08-26
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-295,27,Study Completed,Study Participation,COMPLETED,,23607,End of Study,99,S01,295,Study Participation,Study Completed,COMPLETED,,2024-08-19
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-299,28,Study Completed,Study Participation,COMPLETED,,23620,End of Study,99,S01,299,Study Participation,Study Completed,COMPLETED,,2024-09-01
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-308,29,Study Completed,Study Participation,COMPLETED,,23687,End of Study,99,S01,308,Study Participation,Study Completed,COMPLETED,,2024-11-07
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-332,30,Study Completed,Study Participation,COMPLETED,,23703,End of Study,99,S01,332,Study Participation,Study Completed,COMPLETED,,2024-11-23
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-343,31,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Adverse Event,23697,End of Treatment,90,S01,343,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Adverse Event,2024-11-17
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-353,32,Study Completed,Study Participation,COMPLETED,,23669,End of Study,99,S01,353,Study Participation,Study Completed,COMPLETED,,2024-10-20
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-356,33,Study Completed,Study Participation,COMPLETED,,23732,End of Study,99,S01,356,Study Participation,Study Completed,COMPLETED,,2024-12-22
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-358,34,Death,Study Participation,DEATH,Death,23734,End of Treatment,90,S01,358,Study Participation,Death,DEATH,Death,2024-12-24
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-390,35,Study Completed,Study Participation,COMPLETED,,23650,End of Study,99,S01,390,Study Participation,Study Completed,COMPLETED,,2024-10-01
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-396,36,Study Completed,Study Participation,COMPLETED,,23678,End of Study,99,S01,396,Study Participation,Study Completed,COMPLETED,,2024-10-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-406,37,Study Completed,Study Participation,COMPLETED,,23682,End of Study,99,S01,406,Study Participation,Study Completed,COMPLETED,,2024-11-02
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-408,38,Study Completed,Study Participation,COMPLETED,,23598,End of Study,99,S01,408,Study Participation,Study Completed,COMPLETED,,2024-08-10
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-409,39,Study Completed,Study Participation,COMPLETED,,23697,End of Study,99,S01,409,Study Participation,Study Completed,COMPLETED,,2024-11-17
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-418,40,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23672,End of Treatment,90,S01,418,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2024-10-23
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-426,41,Study Completed,Study Participation,COMPLETED,,23723,End of Study,99,S01,426,Study Participation,Study Completed,COMPLETED,,2024-12-13
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-428,42,Study Completed,Study Participation,COMPLETED,,23575,End of Study,99,S01,428,Study Participation,Study Completed,COMPLETED,,2024-07-18
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-439,43,Study Completed,Study Participation,COMPLETED,,23689,End of Study,99,S01,439,Study Participation,Study Completed,COMPLETED,,2024-11-09
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-446,44,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23620,End of Treatment,90,S01,446,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-09-01
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-454,45,Study Completed,Study Participation,COMPLETED,,23732,End of Study,99,S01,454,Study Participation,Study Completed,COMPLETED,,2024-12-22
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-461,46,Study Completed,Study Participation,COMPLETED,,23654,End of Study,99,S01,461,Study Participation,Study Completed,COMPLETED,,2024-10-05
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-465,47,Death,Study Participation,DEATH,Death,23735,End of Treatment,90,S01,465,Study Participation,Death,DEATH,Death,2024-12-25
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-466,48,Study Completed,Study Participation,COMPLETED,,23723,End of Study,99,S01,466,Study Participation,Study Completed,COMPLETED,,2024-12-13
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-491,49,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Adverse Event,23665,End of Treatment,90,S01,491,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Adverse Event,2024-10-16
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S01-496,50,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23744,End of Treatment,90,S01,496,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2025-01-03
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-2,51,Study Completed,Study Participation,COMPLETED,,23701,End of Study,99,S02,2,Study Participation,Study Completed,COMPLETED,,2024-11-21
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-6,52,Study Completed,Study Participation,COMPLETED,,23634,End of Study,99,S02,6,Study Participation,Study Completed,COMPLETED,,2024-09-15
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-23,53,Study Completed,Study Participation,COMPLETED,,23674,End of Study,99,S02,23,Study Participation,Study Completed,COMPLETED,,2024-10-25
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-28,54,Study Completed,Study Participation,COMPLETED,,23690,End of Study,99,S02,28,Study Participation,Study Completed,COMPLETED,,2024-11-10
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-37,55,Study Completed,Study Participation,COMPLETED,,23709,End of Study,99,S02,37,Study Participation,Study Completed,COMPLETED,,2024-11-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-52,56,Study Completed,Study Participation,COMPLETED,,23723,End of Study,99,S02,52,Study Participation,Study Completed,COMPLETED,,2024-12-13
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-63,57,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23668,End of Treatment,90,S02,63,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-10-19
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-77,58,Study Completed,Study Participation,COMPLETED,,23665,End of Study,99,S02,77,Study Participation,Study Completed,COMPLETED,,2024-10-16
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-80,59,Study Completed,Study Participation,COMPLETED,,23616,End of Study,99,S02,80,Study Participation,Study Completed,COMPLETED,,2024-08-28
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-83,60,Study Completed,Study Participation,COMPLETED,,23607,End of Study,99,S02,83,Study Participation,Study Completed,COMPLETED,,2024-08-19
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-87,61,Study Completed,Study Participation,COMPLETED,,23742,End of Study,99,S02,87,Study Participation,Study Completed,COMPLETED,,2025-01-01
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-92,62,Study Completed,Study Participation,COMPLETED,,23618,End of Study,99,S02,92,Study Participation,Study Completed,COMPLETED,,2024-08-30
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-105,63,Study Completed,Study Participation,COMPLETED,,23673,End of Study,99,S02,105,Study Participation,Study Completed,COMPLETED,,2024-10-24
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-119,64,Study Completed,Study Participation,COMPLETED,,23657,End of Study,99,S02,119,Study Participation,Study Completed,COMPLETED,,2024-10-08
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-123,65,Study Completed,Study Participation,COMPLETED,,23655,End of Study,99,S02,123,Study Participation,Study Completed,COMPLETED,,2024-10-06
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-127,66,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Disease Progression,23727,End of Treatment,90,S02,127,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Disease Progression,2024-12-17
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-135,67,Study Completed,Study Participation,COMPLETED,,23725,End of Study,99,S02,135,Study Participation,Study Completed,COMPLETED,,2024-12-15
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-137,68,Study Completed,Study Participation,COMPLETED,,23679,End of Study,99,S02,137,Study Participation,Study Completed,COMPLETED,,2024-10-30
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-139,69,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23613,End of Treatment,90,S02,139,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-08-25
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-160,70,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23652,End of Treatment,90,S02,160,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2024-10-03
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-171,71,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23656,End of Treatment,90,S02,171,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-10-07
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-187,72,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23682,End of Treatment,90,S02,187,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2024-11-02
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-194,73,Study Completed,Study Participation,COMPLETED,,23665,End of Study,99,S02,194,Study Participation,Study Completed,COMPLETED,,2024-10-16
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-197,74,Study Completed,Study Participation,COMPLETED,,23620,End of Study,99,S02,197,Study Participation,Study Completed,COMPLETED,,2024-09-01
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-199,75,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23703,End of Treatment,90,S02,199,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-11-23
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-200,76,Study Completed,Study Participation,COMPLETED,,23634,End of Study,99,S02,200,Study Participation,Study Completed,COMPLETED,,2024-09-15
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-204,77,Death,Study Participation,DEATH,Death,23681,End of Treatment,90,S02,204,Study Participation,Death,DEATH,Death,2024-11-01
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-207,78,Study Completed,Study Participation,COMPLETED,,23736,End of Study,99,S02,207,Study Participation,Study Completed,COMPLETED,,2024-12-26
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-210,79,Study Completed,Study Participation,COMPLETED,,23715,End of Study,99,S02,210,Study Participation,Study Completed,COMPLETED,,2024-12-05
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-225,80,Study Completed,Study Participation,COMPLETED,,23690,End of Study,99,S02,225,Study Participation,Study Completed,COMPLETED,,2024-11-10
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-237,81,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Protocol Deviation,23668,End of Treatment,90,S02,237,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Protocol Deviation,2024-10-19
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-242,82,Study Completed,Study Participation,COMPLETED,,23697,End of Study,99,S02,242,Study Participation,Study Completed,COMPLETED,,2024-11-17
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-250,83,Study Completed,Study Participation,COMPLETED,,23743,End of Study,99,S02,250,Study Participation,Study Completed,COMPLETED,,2025-01-02
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-254,84,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Disease Progression,23657,End of Treatment,90,S02,254,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Disease Progression,2024-10-08
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-259,85,Study Completed,Study Participation,COMPLETED,,23713,End of Study,99,S02,259,Study Participation,Study Completed,COMPLETED,,2024-12-03
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-266,86,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Disease Progression,23713,End of Treatment,90,S02,266,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Disease Progression,2024-12-03
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-282,87,Study Completed,Study Participation,COMPLETED,,23718,End of Study,99,S02,282,Study Participation,Study Completed,COMPLETED,,2024-12-08
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-292,88,Study Completed,Study Participation,COMPLETED,,23598,End of Study,99,S02,292,Study Participation,Study Completed,COMPLETED,,2024-08-10
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-300,89,Study Completed,Study Participation,COMPLETED,,23679,End of Study,99,S02,300,Study Participation,Study Completed,COMPLETED,,2024-10-30
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-307,90,Study Completed,Study Participation,COMPLETED,,23673,End of Study,99,S02,307,Study Participation,Study Completed,COMPLETED,,2024-10-24
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-344,91,Study Completed,Study Participation,COMPLETED,,23703,End of Study,99,S02,344,Study Participation,Study Completed,COMPLETED,,2024-11-23
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-352,92,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Protocol Deviation,23712,End of Treatment,90,S02,352,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Protocol Deviation,2024-12-02
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-377,93,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23703,End of Treatment,90,S02,377,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2024-11-23
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-387,94,Study Completed,Study Participation,COMPLETED,,23685,End of Study,99,S02,387,Study Participation,Study Completed,COMPLETED,,2024-11-05
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-395,95,Study Completed,Study Participation,COMPLETED,,23639,End of Study,99,S02,395,Study Participation,Study Completed,COMPLETED,,2024-09-20
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-402,96,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Disease Progression,23642,End of Treatment,90,S02,402,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Disease Progression,2024-09-23
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-416,97,Study Completed,Study Participation,COMPLETED,,23666,End of Study,99,S02,416,Study Participation,Study Completed,COMPLETED,,2024-10-17
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-417,98,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Protocol Deviation,23656,End of Treatment,90,S02,417,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Protocol Deviation,2024-10-07
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-425,99,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Protocol Deviation,23603,End of Treatment,90,S02,425,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Protocol Deviation,2024-08-15
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-443,100,Study Completed,Study Participation,COMPLETED,,23598,End of Study,99,S02,443,Study Participation,Study Completed,COMPLETED,,2024-08-10
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-452,101,Study Completed,Study Participation,COMPLETED,,23583,End of Study,99,S02,452,Study Participation,Study Completed,COMPLETED,,2024-07-26
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-470,102,Study Completed,Study Participation,COMPLETED,,23618,End of Study,99,S02,470,Study Participation,Study Completed,COMPLETED,,2024-08-30
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S02-480,103,Study Completed,Study Participation,COMPLETED,,23584,End of Study,99,S02,480,Study Participation,Study Completed,COMPLETED,,2024-07-27
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-4,104,Study Completed,Study Participation,COMPLETED,,23746,End of Study,99,S03,4,Study Participation,Study Completed,COMPLETED,,2025-01-05
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-11,105,Study Completed,Study Participation,COMPLETED,,23612,End of Study,99,S03,11,Study Participation,Study Completed,COMPLETED,,2024-08-24
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-17,106,Study Completed,Study Participation,COMPLETED,,23746,End of Study,99,S03,17,Study Participation,Study Completed,COMPLETED,,2025-01-05
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-20,107,Study Completed,Study Participation,COMPLETED,,23719,End of Study,99,S03,20,Study Participation,Study Completed,COMPLETED,,2024-12-09
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-25,108,Study Completed,Study Participation,COMPLETED,,23742,End of Study,99,S03,25,Study Participation,Study Completed,COMPLETED,,2025-01-01
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-34,109,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Adverse Event,23709,End of Treatment,90,S03,34,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Adverse Event,2024-11-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-38,110,Death,Study Participation,DEATH,Death,23724,End of Treatment,90,S03,38,Study Participation,Death,DEATH,Death,2024-12-14
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-40,111,Study Completed,Study Participation,COMPLETED,,23617,End of Study,99,S03,40,Study Participation,Study Completed,COMPLETED,,2024-08-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-51,112,Study Completed,Study Participation,COMPLETED,,23604,End of Study,99,S03,51,Study Participation,Study Completed,COMPLETED,,2024-08-16
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-53,113,Study Completed,Study Participation,COMPLETED,,23681,End of Study,99,S03,53,Study Participation,Study Completed,COMPLETED,,2024-11-01
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-55,114,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23712,End of Treatment,90,S03,55,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-12-02
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-72,115,Death,Study Participation,DEATH,Death,23642,End of Treatment,90,S03,72,Study Participation,Death,DEATH,Death,2024-09-23
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-73,116,Study Completed,Study Participation,COMPLETED,,23718,End of Study,99,S03,73,Study Participation,Study Completed,COMPLETED,,2024-12-08
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-76,117,Study Completed,Study Participation,COMPLETED,,23618,End of Study,99,S03,76,Study Participation,Study Completed,COMPLETED,,2024-08-30
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-85,118,Study Completed,Study Participation,COMPLETED,,23697,End of Study,99,S03,85,Study Participation,Study Completed,COMPLETED,,2024-11-17
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-94,119,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Protocol Deviation,23634,End of Treatment,90,S03,94,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Protocol Deviation,2024-09-15
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-102,120,Study Completed,Study Participation,COMPLETED,,23699,End of Study,99,S03,102,Study Participation,Study Completed,COMPLETED,,2024-11-19
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-106,121,Study Completed,Study Participation,COMPLETED,,23601,End of Study,99,S03,106,Study Participation,Study Completed,COMPLETED,,2024-08-13
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-146,122,Study Completed,Study Participation,COMPLETED,,23720,End of Study,99,S03,146,Study Participation,Study Completed,COMPLETED,,2024-12-10
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-148,123,Study Completed,Study Participation,COMPLETED,,23695,End of Study,99,S03,148,Study Participation,Study Completed,COMPLETED,,2024-11-15
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-154,124,Study Completed,Study Participation,COMPLETED,,23669,End of Study,99,S03,154,Study Participation,Study Completed,COMPLETED,,2024-10-20
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-159,125,Study Completed,Study Participation,COMPLETED,,23678,End of Study,99,S03,159,Study Participation,Study Completed,COMPLETED,,2024-10-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-174,126,Study Completed,Study Participation,COMPLETED,,23583,End of Study,99,S03,174,Study Participation,Study Completed,COMPLETED,,2024-07-26
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-188,127,Study Completed,Study Participation,COMPLETED,,23729,End of Study,99,S03,188,Study Participation,Study Completed,COMPLETED,,2024-12-19
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-196,128,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23644,End of Treatment,90,S03,196,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2024-09-25
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-213,129,Study Completed,Study Participation,COMPLETED,,23634,End of Study,99,S03,213,Study Participation,Study Completed,COMPLETED,,2024-09-15
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-252,130,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Disease Progression,23632,End of Treatment,90,S03,252,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Disease Progression,2024-09-13
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-278,131,Study Completed,Study Participation,COMPLETED,,23691,End of Study,99,S03,278,Study Participation,Study Completed,COMPLETED,,2024-11-11
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-280,132,Death,Study Participation,DEATH,Death,23650,End of Treatment,90,S03,280,Study Participation,Death,DEATH,Death,2024-10-01
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-283,133,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Adverse Event,23642,End of Treatment,90,S03,283,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Adverse Event,2024-09-23
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-293,134,Study Completed,Study Participation,COMPLETED,,23733,End of Study,99,S03,293,Study Participation,Study Completed,COMPLETED,,2024-12-23
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-296,135,Study Completed,Study Participation,COMPLETED,,23578,End of Study,99,S03,296,Study Participation,Study Completed,COMPLETED,,2024-07-21
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-304,136,Study Completed,Study Participation,COMPLETED,,23748,End of Study,99,S03,304,Study Participation,Study Completed,COMPLETED,,2025-01-07
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-314,137,Study Completed,Study Participation,COMPLETED,,23648,End of Study,99,S03,314,Study Participation,Study Completed,COMPLETED,,2024-09-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-316,138,Study Completed,Study Participation,COMPLETED,,23650,End of Study,99,S03,316,Study Participation,Study Completed,COMPLETED,,2024-10-01
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-320,139,Study Completed,Study Participation,COMPLETED,,23604,End of Study,99,S03,320,Study Participation,Study Completed,COMPLETED,,2024-08-16
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-323,140,Study Completed,Study Participation,COMPLETED,,23646,End of Study,99,S03,323,Study Participation,Study Completed,COMPLETED,,2024-09-27
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-337,141,Study Completed,Study Participation,COMPLETED,,23579,End of Study,99,S03,337,Study Participation,Study Completed,COMPLETED,,2024-07-22
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-363,142,Study Completed,Study Participation,COMPLETED,,23629,End of Study,99,S03,363,Study Participation,Study Completed,COMPLETED,,2024-09-10
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-364,143,Study Completed,Study Participation,COMPLETED,,23734,End of Study,99,S03,364,Study Participation,Study Completed,COMPLETED,,2024-12-24
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-376,144,Study Completed,Study Participation,COMPLETED,,23627,End of Study,99,S03,376,Study Participation,Study Completed,COMPLETED,,2024-09-08
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-380,145,Study Completed,Study Participation,COMPLETED,,23594,End of Study,99,S03,380,Study Participation,Study Completed,COMPLETED,,2024-08-06
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-407,146,Study Completed,Study Participation,COMPLETED,,23642,End of Study,99,S03,407,Study Participation,Study Completed,COMPLETED,,2024-09-23
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-423,147,Study Completed,Study Participation,COMPLETED,,23747,End of Study,99,S03,423,Study Participation,Study Completed,COMPLETED,,2025-01-06
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-424,148,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Adverse Event,23701,End of Treatment,90,S03,424,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Adverse Event,2024-11-21
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-429,149,Study Completed,Study Participation,COMPLETED,,23714,End of Study,99,S03,429,Study Participation,Study Completed,COMPLETED,,2024-12-04
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-438,150,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23748,End of Treatment,90,S03,438,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2025-01-07
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-448,151,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23711,End of Treatment,90,S03,448,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2024-12-01
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-455,152,Study Completed,Study Participation,COMPLETED,,23623,End of Study,99,S03,455,Study Participation,Study Completed,COMPLETED,,2024-09-04
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-457,153,Study Completed,Study Participation,COMPLETED,,23656,End of Study,99,S03,457,Study Participation,Study Completed,COMPLETED,,2024-10-07
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S03-479,154,Study Completed,Study Participation,COMPLETED,,23689,End of Study,99,S03,479,Study Participation,Study Completed,COMPLETED,,2024-11-09
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-1,155,Study Completed,Study Participation,COMPLETED,,23743,End of Study,99,S04,1,Study Participation,Study Completed,COMPLETED,,2025-01-02
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-5,156,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Protocol Deviation,23729,End of Treatment,90,S04,5,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Protocol Deviation,2024-12-19
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-12,157,Study Completed,Study Participation,COMPLETED,,23688,End of Study,99,S04,12,Study Participation,Study Completed,COMPLETED,,2024-11-08
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-13,158,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23704,End of Treatment,90,S04,13,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-11-24
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-15,159,Study Completed,Study Participation,COMPLETED,,23706,End of Study,99,S04,15,Study Participation,Study Completed,COMPLETED,,2024-11-26
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-26,160,Study Completed,Study Participation,COMPLETED,,23615,End of Study,99,S04,26,Study Participation,Study Completed,COMPLETED,,2024-08-27
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-29,161,Study Completed,Study Participation,COMPLETED,,23605,End of Study,99,S04,29,Study Participation,Study Completed,COMPLETED,,2024-08-17
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-47,162,Study Completed,Study Participation,COMPLETED,,23711,End of Study,99,S04,47,Study Participation,Study Completed,COMPLETED,,2024-12-01
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-50,163,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23735,End of Treatment,90,S04,50,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2024-12-25
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-69,164,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23609,End of Treatment,90,S04,69,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-08-21
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-95,165,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Disease Progression,23610,End of Treatment,90,S04,95,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Disease Progression,2024-08-22
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-104,166,Study Completed,Study Participation,COMPLETED,,23586,End of Study,99,S04,104,Study Participation,Study Completed,COMPLETED,,2024-07-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-108,167,Study Completed,Study Participation,COMPLETED,,23729,End of Study,99,S04,108,Study Participation,Study Completed,COMPLETED,,2024-12-19
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-110,168,Study Completed,Study Participation,COMPLETED,,23693,End of Study,99,S04,110,Study Participation,Study Completed,COMPLETED,,2024-11-13
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-114,169,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Adverse Event,23712,End of Treatment,90,S04,114,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Adverse Event,2024-12-02
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-124,170,Death,Study Participation,DEATH,Death,23617,End of Treatment,90,S04,124,Study Participation,Death,DEATH,Death,2024-08-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-129,171,Study Completed,Study Participation,COMPLETED,,23590,End of Study,99,S04,129,Study Participation,Study Completed,COMPLETED,,2024-08-02
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-130,172,Study Completed,Study Participation,COMPLETED,,23578,End of Study,99,S04,130,Study Participation,Study Completed,COMPLETED,,2024-07-21
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-149,173,Death,Study Participation,DEATH,Death,23680,End of Treatment,90,S04,149,Study Participation,Death,DEATH,Death,2024-10-31
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-173,174,Study Completed,Study Participation,COMPLETED,,23662,End of Study,99,S04,173,Study Participation,Study Completed,COMPLETED,,2024-10-13
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-176,175,Study Completed,Study Participation,COMPLETED,,23674,End of Study,99,S04,176,Study Participation,Study Completed,COMPLETED,,2024-10-25
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-181,176,Study Completed,Study Participation,COMPLETED,,23692,End of Study,99,S04,181,Study Participation,Study Completed,COMPLETED,,2024-11-12
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-186,177,Study Completed,Study Participation,COMPLETED,,23664,End of Study,99,S04,186,Study Participation,Study Completed,COMPLETED,,2024-10-15
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-215,178,Study Completed,Study Participation,COMPLETED,,23599,End of Study,99,S04,215,Study Participation,Study Completed,COMPLETED,,2024-08-11
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-220,179,Study Completed,Study Participation,COMPLETED,,23572,End of Study,99,S04,220,Study Participation,Study Completed,COMPLETED,,2024-07-15
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-227,180,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Adverse Event,23594,End of Treatment,90,S04,227,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Adverse Event,2024-08-06
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-228,181,Study Completed,Study Participation,COMPLETED,,23700,End of Study,99,S04,228,Study Participation,Study Completed,COMPLETED,,2024-11-20
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-241,182,Study Completed,Study Participation,COMPLETED,,23600,End of Study,99,S04,241,Study Participation,Study Completed,COMPLETED,,2024-08-12
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-247,183,Study Completed,Study Participation,COMPLETED,,23601,End of Study,99,S04,247,Study Participation,Study Completed,COMPLETED,,2024-08-13
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-260,184,Study Completed,Study Participation,COMPLETED,,23626,End of Study,99,S04,260,Study Participation,Study Completed,COMPLETED,,2024-09-07
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-265,185,Study Completed,Study Participation,COMPLETED,,23603,End of Study,99,S04,265,Study Participation,Study Completed,COMPLETED,,2024-08-15
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-267,186,Study Completed,Study Participation,COMPLETED,,23593,End of Study,99,S04,267,Study Participation,Study Completed,COMPLETED,,2024-08-05
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-271,187,Study Completed,Study Participation,COMPLETED,,23674,End of Study,99,S04,271,Study Participation,Study Completed,COMPLETED,,2024-10-25
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-272,188,Study Completed,Study Participation,COMPLETED,,23715,End of Study,99,S04,272,Study Participation,Study Completed,COMPLETED,,2024-12-05
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-274,189,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23740,End of Treatment,90,S04,274,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-12-30
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-276,190,Death,Study Participation,DEATH,Death,23646,End of Treatment,90,S04,276,Study Participation,Death,DEATH,Death,2024-09-27
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-321,191,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23635,End of Treatment,90,S04,321,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2024-09-16
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-326,192,Study Completed,Study Participation,COMPLETED,,23683,End of Study,99,S04,326,Study Participation,Study Completed,COMPLETED,,2024-11-03
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-335,193,Study Completed,Study Participation,COMPLETED,,23747,End of Study,99,S04,335,Study Participation,Study Completed,COMPLETED,,2025-01-06
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-365,194,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23572,End of Treatment,90,S04,365,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-07-15
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-379,195,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23669,End of Treatment,90,S04,379,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2024-10-20
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-384,196,Study Completed,Study Participation,COMPLETED,,23596,End of Study,99,S04,384,Study Participation,Study Completed,COMPLETED,,2024-08-08
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-398,197,Study Completed,Study Participation,COMPLETED,,23665,End of Study,99,S04,398,Study Participation,Study Completed,COMPLETED,,2024-10-16
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-401,198,Study Completed,Study Participation,COMPLETED,,23709,End of Study,99,S04,401,Study Participation,Study Completed,COMPLETED,,2024-11-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-404,199,Study Completed,Study Participation,COMPLETED,,23678,End of Study,99,S04,404,Study Participation,Study Completed,COMPLETED,,2024-10-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-419,200,Death,Study Participation,DEATH,Death,23575,End of Treatment,90,S04,419,Study Participation,Death,DEATH,Death,2024-07-18
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-421,201,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Protocol Deviation,23737,End of Treatment,90,S04,421,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Protocol Deviation,2024-12-27
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-433,202,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23631,End of Treatment,90,S04,433,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2024-09-12
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-434,203,Study Completed,Study Participation,COMPLETED,,23740,End of Study,99,S04,434,Study Participation,Study Completed,COMPLETED,,2024-12-30
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-440,204,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23593,End of Treatment,90,S04,440,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2024-08-05
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-445,205,Study Completed,Study Participation,COMPLETED,,23649,End of Study,99,S04,445,Study Participation,Study Completed,COMPLETED,,2024-09-30
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-463,206,Study Completed,Study Participation,COMPLETED,,23675,End of Study,99,S04,463,Study Participation,Study Completed,COMPLETED,,2024-10-26
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-474,207,Study Completed,Study Participation,COMPLETED,,23625,End of Study,99,S04,474,Study Participation,Study Completed,COMPLETED,,2024-09-06
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-482,208,Study Completed,Study Participation,COMPLETED,,23581,End of Study,99,S04,482,Study Participation,Study Completed,COMPLETED,,2024-07-24
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-494,209,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Disease Progression,23646,End of Treatment,90,S04,494,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Disease Progression,2024-09-27
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-495,210,Death,Study Participation,DEATH,Death,23674,End of Treatment,90,S04,495,Study Participation,Death,DEATH,Death,2024-10-25
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-498,211,Study Completed,Study Participation,COMPLETED,,23695,End of Study,99,S04,498,Study Participation,Study Completed,COMPLETED,,2024-11-15
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S04-500,212,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23710,End of Treatment,90,S04,500,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-11-30
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-3,213,Study Completed,Study Participation,COMPLETED,,23705,End of Study,99,S05,3,Study Participation,Study Completed,COMPLETED,,2024-11-25
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-16,214,Study Completed,Study Participation,COMPLETED,,23676,End of Study,99,S05,16,Study Participation,Study Completed,COMPLETED,,2024-10-27
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-24,215,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Adverse Event,23606,End of Treatment,90,S05,24,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Adverse Event,2024-08-18
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-31,216,Study Completed,Study Participation,COMPLETED,,23653,End of Study,99,S05,31,Study Participation,Study Completed,COMPLETED,,2024-10-04
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-42,217,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23580,End of Treatment,90,S05,42,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2024-07-23
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-64,218,Study Completed,Study Participation,COMPLETED,,23729,End of Study,99,S05,64,Study Participation,Study Completed,COMPLETED,,2024-12-19
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-66,219,Study Completed,Study Participation,COMPLETED,,23669,End of Study,99,S05,66,Study Participation,Study Completed,COMPLETED,,2024-10-20
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-90,220,Study Completed,Study Participation,COMPLETED,,23739,End of Study,99,S05,90,Study Participation,Study Completed,COMPLETED,,2024-12-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-99,221,Study Completed,Study Participation,COMPLETED,,23571,End of Study,99,S05,99,Study Participation,Study Completed,COMPLETED,,2024-07-14
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-103,222,Study Completed,Study Participation,COMPLETED,,23675,End of Study,99,S05,103,Study Participation,Study Completed,COMPLETED,,2024-10-26
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-112,223,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23669,End of Treatment,90,S05,112,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-10-20
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-117,224,Study Completed,Study Participation,COMPLETED,,23627,End of Study,99,S05,117,Study Participation,Study Completed,COMPLETED,,2024-09-08
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-131,225,Study Completed,Study Participation,COMPLETED,,23677,End of Study,99,S05,131,Study Participation,Study Completed,COMPLETED,,2024-10-28
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-151,226,Study Completed,Study Participation,COMPLETED,,23717,End of Study,99,S05,151,Study Participation,Study Completed,COMPLETED,,2024-12-07
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-165,227,Study Completed,Study Participation,COMPLETED,,23598,End of Study,99,S05,165,Study Participation,Study Completed,COMPLETED,,2024-08-10
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-169,228,Study Completed,Study Participation,COMPLETED,,23573,End of Study,99,S05,169,Study Participation,Study Completed,COMPLETED,,2024-07-16
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-191,229,Study Completed,Study Participation,COMPLETED,,23705,End of Study,99,S05,191,Study Participation,Study Completed,COMPLETED,,2024-11-25
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-192,230,Study Completed,Study Participation,COMPLETED,,23638,End of Study,99,S05,192,Study Participation,Study Completed,COMPLETED,,2024-09-19
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-206,231,Study Completed,Study Participation,COMPLETED,,23722,End of Study,99,S05,206,Study Participation,Study Completed,COMPLETED,,2024-12-12
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-217,232,Study Completed,Study Participation,COMPLETED,,23706,End of Study,99,S05,217,Study Participation,Study Completed,COMPLETED,,2024-11-26
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-226,233,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Adverse Event,23587,End of Treatment,90,S05,226,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Adverse Event,2024-07-30
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-258,234,Study Completed,Study Participation,COMPLETED,,23623,End of Study,99,S05,258,Study Participation,Study Completed,COMPLETED,,2024-09-04
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-289,235,Study Completed,Study Participation,COMPLETED,,23654,End of Study,99,S05,289,Study Participation,Study Completed,COMPLETED,,2024-10-05
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-309,236,Death,Study Participation,DEATH,Death,23717,End of Treatment,90,S05,309,Study Participation,Death,DEATH,Death,2024-12-07
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-312,237,Study Completed,Study Participation,COMPLETED,,23668,End of Study,99,S05,312,Study Participation,Study Completed,COMPLETED,,2024-10-19
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-319,238,Study Completed,Study Participation,COMPLETED,,23574,End of Study,99,S05,319,Study Participation,Study Completed,COMPLETED,,2024-07-17
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-333,239,Study Completed,Study Participation,COMPLETED,,23617,End of Study,99,S05,333,Study Participation,Study Completed,COMPLETED,,2024-08-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-334,240,Study Completed,Study Participation,COMPLETED,,23728,End of Study,99,S05,334,Study Participation,Study Completed,COMPLETED,,2024-12-18
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-338,241,Study Completed,Study Participation,COMPLETED,,23602,End of Study,99,S05,338,Study Participation,Study Completed,COMPLETED,,2024-08-14
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-350,242,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Adverse Event,23687,End of Treatment,90,S05,350,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Adverse Event,2024-11-07
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-351,243,Study Completed,Study Participation,COMPLETED,,23656,End of Study,99,S05,351,Study Participation,Study Completed,COMPLETED,,2024-10-07
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-359,244,Study Completed,Study Participation,COMPLETED,,23651,End of Study,99,S05,359,Study Participation,Study Completed,COMPLETED,,2024-10-02
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-374,245,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Protocol Deviation,23714,End of Treatment,90,S05,374,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Protocol Deviation,2024-12-04
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-386,246,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23703,End of Treatment,90,S05,386,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2024-11-23
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-392,247,Study Completed,Study Participation,COMPLETED,,23717,End of Study,99,S05,392,Study Participation,Study Completed,COMPLETED,,2024-12-07
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-410,248,Study Completed,Study Participation,COMPLETED,,23731,End of Study,99,S05,410,Study Participation,Study Completed,COMPLETED,,2024-12-21
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-427,249,Study Completed,Study Participation,COMPLETED,,23709,End of Study,99,S05,427,Study Participation,Study Completed,COMPLETED,,2024-11-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-437,250,Study Completed,Study Participation,COMPLETED,,23644,End of Study,99,S05,437,Study Participation,Study Completed,COMPLETED,,2024-09-25
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-441,251,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23640,End of Treatment,90,S05,441,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-09-21
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-473,252,Study Completed,Study Participation,COMPLETED,,23715,End of Study,99,S05,473,Study Participation,Study Completed,COMPLETED,,2024-12-05
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-483,253,Study Completed,Study Participation,COMPLETED,,23619,End of Study,99,S05,483,Study Participation,Study Completed,COMPLETED,,2024-08-31
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S05-492,254,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Disease Progression,23659,End of Treatment,90,S05,492,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Disease Progression,2024-10-10
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-21,255,Study Completed,Study Participation,COMPLETED,,23592,End of Study,99,S06,21,Study Participation,Study Completed,COMPLETED,,2024-08-04
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-30,256,Study Completed,Study Participation,COMPLETED,,23620,End of Study,99,S06,30,Study Participation,Study Completed,COMPLETED,,2024-09-01
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-39,257,Study Completed,Study Participation,COMPLETED,,23743,End of Study,99,S06,39,Study Participation,Study Completed,COMPLETED,,2025-01-02
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-49,258,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23590,End of Treatment,90,S06,49,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-08-02
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-56,259,Study Completed,Study Participation,COMPLETED,,23696,End of Study,99,S06,56,Study Participation,Study Completed,COMPLETED,,2024-11-16
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-61,260,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Disease Progression,23575,End of Treatment,90,S06,61,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Disease Progression,2024-07-18
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-111,261,Study Completed,Study Participation,COMPLETED,,23742,End of Study,99,S06,111,Study Participation,Study Completed,COMPLETED,,2025-01-01
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-118,262,Study Completed,Study Participation,COMPLETED,,23626,End of Study,99,S06,118,Study Participation,Study Completed,COMPLETED,,2024-09-07
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-143,263,Study Completed,Study Participation,COMPLETED,,23703,End of Study,99,S06,143,Study Participation,Study Completed,COMPLETED,,2024-11-23
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-150,264,Death,Study Participation,DEATH,Death,23739,End of Treatment,90,S06,150,Study Participation,Death,DEATH,Death,2024-12-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-153,265,Study Completed,Study Participation,COMPLETED,,23609,End of Study,99,S06,153,Study Participation,Study Completed,COMPLETED,,2024-08-21
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-190,266,Death,Study Participation,DEATH,Death,23624,End of Treatment,90,S06,190,Study Participation,Death,DEATH,Death,2024-09-05
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-221,267,Study Completed,Study Participation,COMPLETED,,23724,End of Study,99,S06,221,Study Participation,Study Completed,COMPLETED,,2024-12-14
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-222,268,Study Completed,Study Participation,COMPLETED,,23600,End of Study,99,S06,222,Study Participation,Study Completed,COMPLETED,,2024-08-12
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-240,269,Study Completed,Study Participation,COMPLETED,,23736,End of Study,99,S06,240,Study Participation,Study Completed,COMPLETED,,2024-12-26
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-256,270,Study Completed,Study Participation,COMPLETED,,23738,End of Study,99,S06,256,Study Participation,Study Completed,COMPLETED,,2024-12-28
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-264,271,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23652,End of Treatment,90,S06,264,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-10-03
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-281,272,Study Completed,Study Participation,COMPLETED,,23671,End of Study,99,S06,281,Study Participation,Study Completed,COMPLETED,,2024-10-22
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-284,273,Study Completed,Study Participation,COMPLETED,,23645,End of Study,99,S06,284,Study Participation,Study Completed,COMPLETED,,2024-09-26
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-291,274,Study Completed,Study Participation,COMPLETED,,23660,End of Study,99,S06,291,Study Participation,Study Completed,COMPLETED,,2024-10-11
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-294,275,Study Completed,Study Participation,COMPLETED,,23619,End of Study,99,S06,294,Study Participation,Study Completed,COMPLETED,,2024-08-31
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-298,276,Study Completed,Study Participation,COMPLETED,,23642,End of Study,99,S06,298,Study Participation,Study Completed,COMPLETED,,2024-09-23
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-303,277,Study Completed,Study Participation,COMPLETED,,23704,End of Study,99,S06,303,Study Participation,Study Completed,COMPLETED,,2024-11-24
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-305,278,Study Completed,Study Participation,COMPLETED,,23726,End of Study,99,S06,305,Study Participation,Study Completed,COMPLETED,,2024-12-16
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-311,279,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23594,End of Treatment,90,S06,311,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-08-06
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-317,280,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Protocol Deviation,23739,End of Treatment,90,S06,317,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Protocol Deviation,2024-12-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-322,281,Study Completed,Study Participation,COMPLETED,,23588,End of Study,99,S06,322,Study Participation,Study Completed,COMPLETED,,2024-07-31
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-331,282,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Disease Progression,23590,End of Treatment,90,S06,331,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Disease Progression,2024-08-02
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-336,283,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Adverse Event,23577,End of Treatment,90,S06,336,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Adverse Event,2024-07-20
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-346,284,Death,Study Participation,DEATH,Death,23617,End of Treatment,90,S06,346,Study Participation,Death,DEATH,Death,2024-08-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-368,285,Study Completed,Study Participation,COMPLETED,,23631,End of Study,99,S06,368,Study Participation,Study Completed,COMPLETED,,2024-09-12
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-385,286,Study Completed,Study Participation,COMPLETED,,23579,End of Study,99,S06,385,Study Participation,Study Completed,COMPLETED,,2024-07-22
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-393,287,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Disease Progression,23583,End of Treatment,90,S06,393,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Disease Progression,2024-07-26
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-403,288,Study Completed,Study Participation,COMPLETED,,23633,End of Study,99,S06,403,Study Participation,Study Completed,COMPLETED,,2024-09-14
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-412,289,Study Completed,Study Participation,COMPLETED,,23673,End of Study,99,S06,412,Study Participation,Study Completed,COMPLETED,,2024-10-24
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-422,290,Study Completed,Study Participation,COMPLETED,,23713,End of Study,99,S06,422,Study Participation,Study Completed,COMPLETED,,2024-12-03
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-435,291,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23698,End of Treatment,90,S06,435,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-11-18
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-460,292,Study Completed,Study Participation,COMPLETED,,23748,End of Study,99,S06,460,Study Participation,Study Completed,COMPLETED,,2025-01-07
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-467,293,Death,Study Participation,DEATH,Death,23586,End of Treatment,90,S06,467,Study Participation,Death,DEATH,Death,2024-07-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-477,294,Death,Study Participation,DEATH,Death,23665,End of Treatment,90,S06,477,Study Participation,Death,DEATH,Death,2024-10-16
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-490,295,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Adverse Event,23645,End of Treatment,90,S06,490,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Adverse Event,2024-09-26
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S06-497,296,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Adverse Event,23726,End of Treatment,90,S06,497,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Adverse Event,2024-12-16
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-7,297,Study Completed,Study Participation,COMPLETED,,23599,End of Study,99,S07,7,Study Participation,Study Completed,COMPLETED,,2024-08-11
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-14,298,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Disease Progression,23681,End of Treatment,90,S07,14,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Disease Progression,2024-11-01
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-19,299,Study Completed,Study Participation,COMPLETED,,23585,End of Study,99,S07,19,Study Participation,Study Completed,COMPLETED,,2024-07-28
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-32,300,Study Completed,Study Participation,COMPLETED,,23575,End of Study,99,S07,32,Study Participation,Study Completed,COMPLETED,,2024-07-18
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-41,301,Study Completed,Study Participation,COMPLETED,,23672,End of Study,99,S07,41,Study Participation,Study Completed,COMPLETED,,2024-10-23
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-45,302,Study Completed,Study Participation,COMPLETED,,23742,End of Study,99,S07,45,Study Participation,Study Completed,COMPLETED,,2025-01-01
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-54,303,Study Completed,Study Participation,COMPLETED,,23740,End of Study,99,S07,54,Study Participation,Study Completed,COMPLETED,,2024-12-30
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-67,304,Study Completed,Study Participation,COMPLETED,,23707,End of Study,99,S07,67,Study Participation,Study Completed,COMPLETED,,2024-11-27
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-70,305,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23733,End of Treatment,90,S07,70,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-12-23
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-81,306,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23676,End of Treatment,90,S07,81,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2024-10-27
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-88,307,Study Completed,Study Participation,COMPLETED,,23673,End of Study,99,S07,88,Study Participation,Study Completed,COMPLETED,,2024-10-24
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-100,308,Study Completed,Study Participation,COMPLETED,,23690,End of Study,99,S07,100,Study Participation,Study Completed,COMPLETED,,2024-11-10
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-121,309,Death,Study Participation,DEATH,Death,23733,End of Treatment,90,S07,121,Study Participation,Death,DEATH,Death,2024-12-23
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-136,310,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Protocol Deviation,23593,End of Treatment,90,S07,136,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Protocol Deviation,2024-08-05
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-152,311,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23601,End of Treatment,90,S07,152,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2024-08-13
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-158,312,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Disease Progression,23709,End of Treatment,90,S07,158,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Disease Progression,2024-11-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-161,313,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Protocol Deviation,23730,End of Treatment,90,S07,161,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Protocol Deviation,2024-12-20
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-170,314,Study Completed,Study Participation,COMPLETED,,23729,End of Study,99,S07,170,Study Participation,Study Completed,COMPLETED,,2024-12-19
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-180,315,Study Completed,Study Participation,COMPLETED,,23594,End of Study,99,S07,180,Study Participation,Study Completed,COMPLETED,,2024-08-06
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-182,316,Death,Study Participation,DEATH,Death,23644,End of Treatment,90,S07,182,Study Participation,Death,DEATH,Death,2024-09-25
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-185,317,Study Completed,Study Participation,COMPLETED,,23682,End of Study,99,S07,185,Study Participation,Study Completed,COMPLETED,,2024-11-02
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-195,318,Study Completed,Study Participation,COMPLETED,,23692,End of Study,99,S07,195,Study Participation,Study Completed,COMPLETED,,2024-11-12
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-209,319,Study Completed,Study Participation,COMPLETED,,23735,End of Study,99,S07,209,Study Participation,Study Completed,COMPLETED,,2024-12-25
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-236,320,Study Completed,Study Participation,COMPLETED,,23639,End of Study,99,S07,236,Study Participation,Study Completed,COMPLETED,,2024-09-20
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-238,321,Death,Study Participation,DEATH,Death,23572,End of Treatment,90,S07,238,Study Participation,Death,DEATH,Death,2024-07-15
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-245,322,Study Completed,Study Participation,COMPLETED,,23587,End of Study,99,S07,245,Study Participation,Study Completed,COMPLETED,,2024-07-30
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-246,323,Study Completed,Study Participation,COMPLETED,,23682,End of Study,99,S07,246,Study Participation,Study Completed,COMPLETED,,2024-11-02
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-251,324,Study Completed,Study Participation,COMPLETED,,23587,End of Study,99,S07,251,Study Participation,Study Completed,COMPLETED,,2024-07-30
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-255,325,Study Completed,Study Participation,COMPLETED,,23627,End of Study,99,S07,255,Study Participation,Study Completed,COMPLETED,,2024-09-08
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-261,326,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Protocol Deviation,23646,End of Treatment,90,S07,261,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Protocol Deviation,2024-09-27
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-268,327,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Disease Progression,23652,End of Treatment,90,S07,268,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Disease Progression,2024-10-03
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-275,328,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Adverse Event,23633,End of Treatment,90,S07,275,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Adverse Event,2024-09-14
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-285,329,Study Completed,Study Participation,COMPLETED,,23580,End of Study,99,S07,285,Study Participation,Study Completed,COMPLETED,,2024-07-23
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-297,330,Study Completed,Study Participation,COMPLETED,,23689,End of Study,99,S07,297,Study Participation,Study Completed,COMPLETED,,2024-11-09
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-301,331,Study Completed,Study Participation,COMPLETED,,23662,End of Study,99,S07,301,Study Participation,Study Completed,COMPLETED,,2024-10-13
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-310,332,Study Completed,Study Participation,COMPLETED,,23612,End of Study,99,S07,310,Study Participation,Study Completed,COMPLETED,,2024-08-24
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-318,333,Study Completed,Study Participation,COMPLETED,,23704,End of Study,99,S07,318,Study Participation,Study Completed,COMPLETED,,2024-11-24
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-327,334,Study Completed,Study Participation,COMPLETED,,23661,End of Study,99,S07,327,Study Participation,Study Completed,COMPLETED,,2024-10-12
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-330,335,Study Completed,Study Participation,COMPLETED,,23602,End of Study,99,S07,330,Study Participation,Study Completed,COMPLETED,,2024-08-14
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-341,336,Study Completed,Study Participation,COMPLETED,,23697,End of Study,99,S07,341,Study Participation,Study Completed,COMPLETED,,2024-11-17
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-342,337,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Protocol Deviation,23628,End of Treatment,90,S07,342,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Protocol Deviation,2024-09-09
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-349,338,Study Completed,Study Participation,COMPLETED,,23655,End of Study,99,S07,349,Study Participation,Study Completed,COMPLETED,,2024-10-06
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-372,339,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Adverse Event,23749,End of Treatment,90,S07,372,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Adverse Event,2025-01-08
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-382,340,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23736,End of Treatment,90,S07,382,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2024-12-26
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-389,341,Study Completed,Study Participation,COMPLETED,,23648,End of Study,99,S07,389,Study Participation,Study Completed,COMPLETED,,2024-09-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-400,342,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Protocol Deviation,23581,End of Treatment,90,S07,400,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Protocol Deviation,2024-07-24
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-420,343,Study Completed,Study Participation,COMPLETED,,23697,End of Study,99,S07,420,Study Participation,Study Completed,COMPLETED,,2024-11-17
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-451,344,Study Completed,Study Participation,COMPLETED,,23595,End of Study,99,S07,451,Study Participation,Study Completed,COMPLETED,,2024-08-07
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-453,345,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Disease Progression,23684,End of Treatment,90,S07,453,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Disease Progression,2024-11-04
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-459,346,Study Completed,Study Participation,COMPLETED,,23607,End of Study,99,S07,459,Study Participation,Study Completed,COMPLETED,,2024-08-19
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-472,347,Study Completed,Study Participation,COMPLETED,,23613,End of Study,99,S07,472,Study Participation,Study Completed,COMPLETED,,2024-08-25
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-481,348,Study Completed,Study Participation,COMPLETED,,23580,End of Study,99,S07,481,Study Participation,Study Completed,COMPLETED,,2024-07-23
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-484,349,Study Completed,Study Participation,COMPLETED,,23747,End of Study,99,S07,484,Study Participation,Study Completed,COMPLETED,,2025-01-06
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-487,350,Study Completed,Study Participation,COMPLETED,,23593,End of Study,99,S07,487,Study Participation,Study Completed,COMPLETED,,2024-08-05
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-488,351,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23654,End of Treatment,90,S07,488,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-10-05
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S07-493,352,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Protocol Deviation,23704,End of Treatment,90,S07,493,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Protocol Deviation,2024-11-24
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-10,353,Study Completed,Study Participation,COMPLETED,,23708,End of Study,99,S08,10,Study Participation,Study Completed,COMPLETED,,2024-11-28
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-44,354,Study Completed,Study Participation,COMPLETED,,23717,End of Study,99,S08,44,Study Participation,Study Completed,COMPLETED,,2024-12-07
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-48,355,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Protocol Deviation,23721,End of Treatment,90,S08,48,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Protocol Deviation,2024-12-11
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-57,356,Study Completed,Study Participation,COMPLETED,,23745,End of Study,99,S08,57,Study Participation,Study Completed,COMPLETED,,2025-01-04
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-58,357,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Protocol Deviation,23700,End of Treatment,90,S08,58,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Protocol Deviation,2024-11-20
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-59,358,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Adverse Event,23741,End of Treatment,90,S08,59,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Adverse Event,2024-12-31
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-60,359,Study Completed,Study Participation,COMPLETED,,23684,End of Study,99,S08,60,Study Participation,Study Completed,COMPLETED,,2024-11-04
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-62,360,Study Completed,Study Participation,COMPLETED,,23602,End of Study,99,S08,62,Study Participation,Study Completed,COMPLETED,,2024-08-14
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-89,361,Study Completed,Study Participation,COMPLETED,,23585,End of Study,99,S08,89,Study Participation,Study Completed,COMPLETED,,2024-07-28
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-93,362,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23717,End of Treatment,90,S08,93,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-12-07
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-98,363,Study Completed,Study Participation,COMPLETED,,23680,End of Study,99,S08,98,Study Participation,Study Completed,COMPLETED,,2024-10-31
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-120,364,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Disease Progression,23711,End of Treatment,90,S08,120,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Disease Progression,2024-12-01
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-132,365,Study Completed,Study Participation,COMPLETED,,23709,End of Study,99,S08,132,Study Participation,Study Completed,COMPLETED,,2024-11-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-145,366,Study Completed,Study Participation,COMPLETED,,23730,End of Study,99,S08,145,Study Participation,Study Completed,COMPLETED,,2024-12-20
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-166,367,Study Completed,Study Participation,COMPLETED,,23593,End of Study,99,S08,166,Study Participation,Study Completed,COMPLETED,,2024-08-05
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-179,368,Study Completed,Study Participation,COMPLETED,,23571,End of Study,99,S08,179,Study Participation,Study Completed,COMPLETED,,2024-07-14
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-183,369,Study Completed,Study Participation,COMPLETED,,23617,End of Study,99,S08,183,Study Participation,Study Completed,COMPLETED,,2024-08-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-208,370,Study Completed,Study Participation,COMPLETED,,23620,End of Study,99,S08,208,Study Participation,Study Completed,COMPLETED,,2024-09-01
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-219,371,Study Completed,Study Participation,COMPLETED,,23655,End of Study,99,S08,219,Study Participation,Study Completed,COMPLETED,,2024-10-06
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-223,372,Study Completed,Study Participation,COMPLETED,,23611,End of Study,99,S08,223,Study Participation,Study Completed,COMPLETED,,2024-08-23
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-224,373,Study Completed,Study Participation,COMPLETED,,23739,End of Study,99,S08,224,Study Participation,Study Completed,COMPLETED,,2024-12-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-231,374,Study Completed,Study Participation,COMPLETED,,23628,End of Study,99,S08,231,Study Participation,Study Completed,COMPLETED,,2024-09-09
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-233,375,Study Completed,Study Participation,COMPLETED,,23749,End of Study,99,S08,233,Study Participation,Study Completed,COMPLETED,,2025-01-08
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-244,376,Study Completed,Study Participation,COMPLETED,,23749,End of Study,99,S08,244,Study Participation,Study Completed,COMPLETED,,2025-01-08
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-253,377,Study Completed,Study Participation,COMPLETED,,23592,End of Study,99,S08,253,Study Participation,Study Completed,COMPLETED,,2024-08-04
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-263,378,Study Completed,Study Participation,COMPLETED,,23693,End of Study,99,S08,263,Study Participation,Study Completed,COMPLETED,,2024-11-13
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-325,379,Study Completed,Study Participation,COMPLETED,,23606,End of Study,99,S08,325,Study Participation,Study Completed,COMPLETED,,2024-08-18
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-348,380,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23602,End of Treatment,90,S08,348,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-08-14
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-362,381,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23660,End of Treatment,90,S08,362,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2024-10-11
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-366,382,Study Completed,Study Participation,COMPLETED,,23628,End of Study,99,S08,366,Study Participation,Study Completed,COMPLETED,,2024-09-09
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-367,383,Study Completed,Study Participation,COMPLETED,,23702,End of Study,99,S08,367,Study Participation,Study Completed,COMPLETED,,2024-11-22
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-375,384,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Disease Progression,23654,End of Treatment,90,S08,375,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Disease Progression,2024-10-05
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-394,385,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Disease Progression,23615,End of Treatment,90,S08,394,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Disease Progression,2024-08-27
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-399,386,Study Completed,Study Participation,COMPLETED,,23709,End of Study,99,S08,399,Study Participation,Study Completed,COMPLETED,,2024-11-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-405,387,Study Completed,Study Participation,COMPLETED,,23725,End of Study,99,S08,405,Study Participation,Study Completed,COMPLETED,,2024-12-15
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-411,388,Study Completed,Study Participation,COMPLETED,,23690,End of Study,99,S08,411,Study Participation,Study Completed,COMPLETED,,2024-11-10
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-413,389,Study Completed,Study Participation,COMPLETED,,23575,End of Study,99,S08,413,Study Participation,Study Completed,COMPLETED,,2024-07-18
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-415,390,Study Completed,Study Participation,COMPLETED,,23610,End of Study,99,S08,415,Study Participation,Study Completed,COMPLETED,,2024-08-22
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-447,391,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Adverse Event,23666,End of Treatment,90,S08,447,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Adverse Event,2024-10-17
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-449,392,Study Completed,Study Participation,COMPLETED,,23632,End of Study,99,S08,449,Study Participation,Study Completed,COMPLETED,,2024-09-13
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-458,393,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23689,End of Treatment,90,S08,458,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-11-09
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-464,394,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23739,End of Treatment,90,S08,464,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2024-12-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-468,395,Study Completed,Study Participation,COMPLETED,,23640,End of Study,99,S08,468,Study Participation,Study Completed,COMPLETED,,2024-09-21
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-469,396,Study Completed,Study Participation,COMPLETED,,23700,End of Study,99,S08,469,Study Participation,Study Completed,COMPLETED,,2024-11-20
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-471,397,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23688,End of Treatment,90,S08,471,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2024-11-08
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-475,398,Study Completed,Study Participation,COMPLETED,,23748,End of Study,99,S08,475,Study Participation,Study Completed,COMPLETED,,2025-01-07
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-478,399,Study Completed,Study Participation,COMPLETED,,23713,End of Study,99,S08,478,Study Participation,Study Completed,COMPLETED,,2024-12-03
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S08-485,400,Study Completed,Study Participation,COMPLETED,,23738,End of Study,99,S08,485,Study Participation,Study Completed,COMPLETED,,2024-12-28
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-33,401,Study Completed,Study Participation,COMPLETED,,23732,End of Study,99,S09,33,Study Participation,Study Completed,COMPLETED,,2024-12-22
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-65,402,Study Completed,Study Participation,COMPLETED,,23601,End of Study,99,S09,65,Study Participation,Study Completed,COMPLETED,,2024-08-13
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-68,403,Study Completed,Study Participation,COMPLETED,,23746,End of Study,99,S09,68,Study Participation,Study Completed,COMPLETED,,2025-01-05
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-71,404,Study Completed,Study Participation,COMPLETED,,23740,End of Study,99,S09,71,Study Participation,Study Completed,COMPLETED,,2024-12-30
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-74,405,Study Completed,Study Participation,COMPLETED,,23699,End of Study,99,S09,74,Study Participation,Study Completed,COMPLETED,,2024-11-19
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-78,406,Study Completed,Study Participation,COMPLETED,,23698,End of Study,99,S09,78,Study Participation,Study Completed,COMPLETED,,2024-11-18
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-82,407,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23671,End of Treatment,90,S09,82,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-10-22
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-101,408,Study Completed,Study Participation,COMPLETED,,23691,End of Study,99,S09,101,Study Participation,Study Completed,COMPLETED,,2024-11-11
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-107,409,Study Completed,Study Participation,COMPLETED,,23587,End of Study,99,S09,107,Study Participation,Study Completed,COMPLETED,,2024-07-30
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-109,410,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Disease Progression,23677,End of Treatment,90,S09,109,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Disease Progression,2024-10-28
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-113,411,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23587,End of Treatment,90,S09,113,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-07-30
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-125,412,Study Completed,Study Participation,COMPLETED,,23610,End of Study,99,S09,125,Study Participation,Study Completed,COMPLETED,,2024-08-22
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-126,413,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23748,End of Treatment,90,S09,126,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2025-01-07
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-128,414,Study Completed,Study Participation,COMPLETED,,23739,End of Study,99,S09,128,Study Participation,Study Completed,COMPLETED,,2024-12-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-133,415,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23597,End of Treatment,90,S09,133,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-08-09
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-138,416,Study Completed,Study Participation,COMPLETED,,23631,End of Study,99,S09,138,Study Participation,Study Completed,COMPLETED,,2024-09-12
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-140,417,Study Completed,Study Participation,COMPLETED,,23584,End of Study,99,S09,140,Study Participation,Study Completed,COMPLETED,,2024-07-27
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-147,418,Death,Study Participation,DEATH,Death,23641,End of Treatment,90,S09,147,Study Participation,Death,DEATH,Death,2024-09-22
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-164,419,Study Completed,Study Participation,COMPLETED,,23668,End of Study,99,S09,164,Study Participation,Study Completed,COMPLETED,,2024-10-19
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-167,420,Study Completed,Study Participation,COMPLETED,,23663,End of Study,99,S09,167,Study Participation,Study Completed,COMPLETED,,2024-10-14
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-168,421,Study Completed,Study Participation,COMPLETED,,23608,End of Study,99,S09,168,Study Participation,Study Completed,COMPLETED,,2024-08-20
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-178,422,Study Completed,Study Participation,COMPLETED,,23602,End of Study,99,S09,178,Study Participation,Study Completed,COMPLETED,,2024-08-14
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-184,423,Study Completed,Study Participation,COMPLETED,,23660,End of Study,99,S09,184,Study Participation,Study Completed,COMPLETED,,2024-10-11
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-189,424,Study Completed,Study Participation,COMPLETED,,23632,End of Study,99,S09,189,Study Participation,Study Completed,COMPLETED,,2024-09-13
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-193,425,Study Completed,Study Participation,COMPLETED,,23627,End of Study,99,S09,193,Study Participation,Study Completed,COMPLETED,,2024-09-08
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-198,426,Study Completed,Study Participation,COMPLETED,,23597,End of Study,99,S09,198,Study Participation,Study Completed,COMPLETED,,2024-08-09
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-218,427,Study Completed,Study Participation,COMPLETED,,23668,End of Study,99,S09,218,Study Participation,Study Completed,COMPLETED,,2024-10-19
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-249,428,Study Completed,Study Participation,COMPLETED,,23715,End of Study,99,S09,249,Study Participation,Study Completed,COMPLETED,,2024-12-05
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-257,429,Study Completed,Study Participation,COMPLETED,,23614,End of Study,99,S09,257,Study Participation,Study Completed,COMPLETED,,2024-08-26
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-262,430,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23684,End of Treatment,90,S09,262,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2024-11-04
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-270,431,Study Completed,Study Participation,COMPLETED,,23735,End of Study,99,S09,270,Study Participation,Study Completed,COMPLETED,,2024-12-25
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-277,432,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Adverse Event,23579,End of Treatment,90,S09,277,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Adverse Event,2024-07-22
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-313,433,Study Completed,Study Participation,COMPLETED,,23662,End of Study,99,S09,313,Study Participation,Study Completed,COMPLETED,,2024-10-13
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-315,434,Study Completed,Study Participation,COMPLETED,,23719,End of Study,99,S09,315,Study Participation,Study Completed,COMPLETED,,2024-12-09
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-345,435,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Adverse Event,23599,End of Treatment,90,S09,345,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Adverse Event,2024-08-11
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-361,436,Study Completed,Study Participation,COMPLETED,,23709,End of Study,99,S09,361,Study Participation,Study Completed,COMPLETED,,2024-11-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-370,437,Study Completed,Study Participation,COMPLETED,,23622,End of Study,99,S09,370,Study Participation,Study Completed,COMPLETED,,2024-09-03
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-373,438,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23685,End of Treatment,90,S09,373,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-11-05
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-383,439,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Protocol Deviation,23603,End of Treatment,90,S09,383,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Protocol Deviation,2024-08-15
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-388,440,Study Completed,Study Participation,COMPLETED,,23583,End of Study,99,S09,388,Study Participation,Study Completed,COMPLETED,,2024-07-26
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-391,441,Study Completed,Study Participation,COMPLETED,,23677,End of Study,99,S09,391,Study Participation,Study Completed,COMPLETED,,2024-10-28
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-397,442,Study Completed,Study Participation,COMPLETED,,23591,End of Study,99,S09,397,Study Participation,Study Completed,COMPLETED,,2024-08-03
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-414,443,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23717,End of Treatment,90,S09,414,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-12-07
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-431,444,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23726,End of Treatment,90,S09,431,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-12-16
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-432,445,Study Completed,Study Participation,COMPLETED,,23596,End of Study,99,S09,432,Study Participation,Study Completed,COMPLETED,,2024-08-08
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-436,446,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Disease Progression,23655,End of Treatment,90,S09,436,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Disease Progression,2024-10-06
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-442,447,Study Completed,Study Participation,COMPLETED,,23678,End of Study,99,S09,442,Study Participation,Study Completed,COMPLETED,,2024-10-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-444,448,Study Completed,Study Participation,COMPLETED,,23642,End of Study,99,S09,444,Study Participation,Study Completed,COMPLETED,,2024-09-23
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-456,449,Study Completed,Study Participation,COMPLETED,,23675,End of Study,99,S09,456,Study Participation,Study Completed,COMPLETED,,2024-10-26
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S09-499,450,Study Completed,Study Participation,COMPLETED,,23587,End of Study,99,S09,499,Study Participation,Study Completed,COMPLETED,,2024-07-30
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-8,451,Study Completed,Study Participation,COMPLETED,,23618,End of Study,99,S10,8,Study Participation,Study Completed,COMPLETED,,2024-08-30
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-9,452,Study Completed,Study Participation,COMPLETED,,23700,End of Study,99,S10,9,Study Participation,Study Completed,COMPLETED,,2024-11-20
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-18,453,Study Completed,Study Participation,COMPLETED,,23635,End of Study,99,S10,18,Study Participation,Study Completed,COMPLETED,,2024-09-16
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-27,454,Study Completed,Study Participation,COMPLETED,,23586,End of Study,99,S10,27,Study Participation,Study Completed,COMPLETED,,2024-07-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-35,455,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Adverse Event,23669,End of Treatment,90,S10,35,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Adverse Event,2024-10-20
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-43,456,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23607,End of Treatment,90,S10,43,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2024-08-19
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-75,457,Study Completed,Study Participation,COMPLETED,,23596,End of Study,99,S10,75,Study Participation,Study Completed,COMPLETED,,2024-08-08
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-79,458,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Adverse Event,23595,End of Treatment,90,S10,79,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Adverse Event,2024-08-07
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-84,459,Study Completed,Study Participation,COMPLETED,,23680,End of Study,99,S10,84,Study Participation,Study Completed,COMPLETED,,2024-10-31
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-91,460,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Adverse Event,23638,End of Treatment,90,S10,91,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Adverse Event,2024-09-19
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-115,461,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23747,End of Treatment,90,S10,115,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2025-01-06
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-122,462,Death,Study Participation,DEATH,Death,23573,End of Treatment,90,S10,122,Study Participation,Death,DEATH,Death,2024-07-16
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-155,463,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Protocol Deviation,23711,End of Treatment,90,S10,155,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Protocol Deviation,2024-12-01
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-156,464,Study Completed,Study Participation,COMPLETED,,23591,End of Study,99,S10,156,Study Participation,Study Completed,COMPLETED,,2024-08-03
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-162,465,Study Completed,Study Participation,COMPLETED,,23649,End of Study,99,S10,162,Study Participation,Study Completed,COMPLETED,,2024-09-30
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-177,466,Study Completed,Study Participation,COMPLETED,,23720,End of Study,99,S10,177,Study Participation,Study Completed,COMPLETED,,2024-12-10
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-201,467,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23648,End of Treatment,90,S10,201,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-09-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-202,468,Study Completed,Study Participation,COMPLETED,,23600,End of Study,99,S10,202,Study Participation,Study Completed,COMPLETED,,2024-08-12
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-203,469,Study Completed,Study Participation,COMPLETED,,23719,End of Study,99,S10,203,Study Participation,Study Completed,COMPLETED,,2024-12-09
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-211,470,Study Completed,Study Participation,COMPLETED,,23606,End of Study,99,S10,211,Study Participation,Study Completed,COMPLETED,,2024-08-18
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-212,471,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Disease Progression,23573,End of Treatment,90,S10,212,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Disease Progression,2024-07-16
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-216,472,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23596,End of Treatment,90,S10,216,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-08-08
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-229,473,Death,Study Participation,DEATH,Death,23707,End of Treatment,90,S10,229,Study Participation,Death,DEATH,Death,2024-11-27
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-232,474,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23735,End of Treatment,90,S10,232,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-12-25
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-239,475,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Protocol Deviation,23686,End of Treatment,90,S10,239,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Protocol Deviation,2024-11-06
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-273,476,Study Completed,Study Participation,COMPLETED,,23630,End of Study,99,S10,273,Study Participation,Study Completed,COMPLETED,,2024-09-11
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-286,477,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Protocol Deviation,23702,End of Treatment,90,S10,286,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Protocol Deviation,2024-11-22
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-288,478,Study Completed,Study Participation,COMPLETED,,23642,End of Study,99,S10,288,Study Participation,Study Completed,COMPLETED,,2024-09-23
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-302,479,Study Completed,Study Participation,COMPLETED,,23706,End of Study,99,S10,302,Study Participation,Study Completed,COMPLETED,,2024-11-26
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-306,480,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23689,End of Treatment,90,S10,306,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-11-09
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-324,481,Study Completed,Study Participation,COMPLETED,,23600,End of Study,99,S10,324,Study Participation,Study Completed,COMPLETED,,2024-08-12
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-328,482,Study Completed,Study Participation,COMPLETED,,23592,End of Study,99,S10,328,Study Participation,Study Completed,COMPLETED,,2024-08-04
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-329,483,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Adverse Event,23637,End of Treatment,90,S10,329,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Adverse Event,2024-09-18
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-339,484,Study Completed,Study Participation,COMPLETED,,23670,End of Study,99,S10,339,Study Participation,Study Completed,COMPLETED,,2024-10-21
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-340,485,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Adverse Event,23617,End of Treatment,90,S10,340,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Adverse Event,2024-08-29
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-347,486,Study Completed,Study Participation,COMPLETED,,23677,End of Study,99,S10,347,Study Participation,Study Completed,COMPLETED,,2024-10-28
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-354,487,Lost to Follow-up,Study Participation,LOST TO FOLLOW-UP,,23748,End of Treatment,90,S10,354,Study Participation,Lost to Follow-up,LOST TO FOLLOW-UP,,2025-01-07
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-355,488,Study Completed,Study Participation,COMPLETED,,23661,End of Study,99,S10,355,Study Participation,Study Completed,COMPLETED,,2024-10-12
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-357,489,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Protocol Deviation,23728,End of Treatment,90,S10,357,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Protocol Deviation,2024-12-18
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-360,490,Study Completed,Study Participation,COMPLETED,,23579,End of Study,99,S10,360,Study Participation,Study Completed,COMPLETED,,2024-07-22
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-369,491,Study Completed,Study Participation,COMPLETED,,23597,End of Study,99,S10,369,Study Participation,Study Completed,COMPLETED,,2024-08-09
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-371,492,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Protocol Deviation,23645,End of Treatment,90,S10,371,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Protocol Deviation,2024-09-26
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-378,493,Withdrawn,Study Participation,WITHDRAWN,Withdrawal of Consent,23653,End of Treatment,90,S10,378,Study Participation,Withdrawn,WITHDRAWN,Withdrawal of Consent,2024-10-04
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-381,494,Study Completed,Study Participation,COMPLETED,,23612,End of Study,99,S10,381,Study Participation,Study Completed,COMPLETED,,2024-08-24
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-430,495,Study Completed,Study Participation,COMPLETED,,23736,End of Study,99,S10,430,Study Participation,Study Completed,COMPLETED,,2024-12-26
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-450,496,Study Completed,Study Participation,COMPLETED,,23581,End of Study,99,S10,450,Study Participation,Study Completed,COMPLETED,,2024-07-24
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-462,497,Treatment Discontinued,Treatment Disposition,DISCONTINUED,Disease Progression,23630,End of Treatment,90,S10,462,Treatment Disposition,Treatment Discontinued,DISCONTINUED,Disease Progression,2024-09-11
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-476,498,Study Completed,Study Participation,COMPLETED,,23659,End of Study,99,S10,476,Study Participation,Study Completed,COMPLETED,,2024-10-10
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-486,499,Study Completed,Study Participation,COMPLETED,,23681,End of Study,99,S10,486,Study Participation,Study Completed,COMPLETED,,2024-11-01
+ONCO-PEMBRO-500,DS,ONCO-PEMBRO-500-S10-489,500,Study Completed,Study Participation,COMPLETED,,23592,End of Study,99,S10,489,Study Participation,Study Completed,COMPLETED,,2024-08-04
