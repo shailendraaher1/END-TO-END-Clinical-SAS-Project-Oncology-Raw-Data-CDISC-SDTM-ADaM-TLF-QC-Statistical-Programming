@@ -62,32 +62,6 @@ This project showcases a complete, industry-standard clinical data transformatio
 
 ---
 
-
-## 🔄 Project Methodology & Statistical Programming Workflow
-
-```mermaid
-graph TD
-    A["1. Data Acquisition <br> 📁 CDM Export (Raw Data)"] --> B["2. SAS Import <br> 💻 PROC IMPORT to Pre-SDTM"]
-    B --> C["3. SDTM Mapping <br> 📋 Study Data Tabulation Model"]
-    C --> D["4. ADaM Derivation <br> 📊 Analysis Data Model Generation"]
-    D --> E["5. TLF Generation <br> 📈 Tables, Listings & Figures"]
-    E --> F["6. QC & Validation <br> 🔍 Independent Double Programming"]
-    F --> G["7. Regulatory Submission <br> 🚀 CSR Section 14 (RTF/PDF) Package"]
-    
-    style A fill:#1e293b,stroke:#38bdf8,stroke-width:2px,color:#fff
-    style B fill:#1e293b,stroke:#38bdf8,stroke-width:2px,color:#fff
-    style C fill:#1e293b,stroke:#38bdf8,stroke-width:2px,color:#fff
-    style D fill:#1e293b,stroke:#38bdf8,stroke-width:2px,color:#fff
-    style E fill:#1e293b,stroke:#38bdf8,stroke-width:2px,color:#fff
-    style F fill:#1e293b,stroke:#38bdf8,stroke-width:2px,color:#fff
-    style G fill:#065f46,stroke:#34d399,stroke-width:2px,color:#fff
-
-
-
-
-
----
-
 ## 📊 Research Hypothesis
 * **Null Hypothesis ($H_0$):** The automated SAS framework fails to accurately transform raw data into compliant CDISC standards and TLFs.
 * **Alternative Hypothesis ($H_1$):** The automated SAS framework successfully and accurately transforms raw oncology data into FDA-compliant CDISC standards and generates accurate TLFs.
@@ -117,7 +91,6 @@ graph TD
 * **Tables (7):** Demographics, Exposure, TEAE, ORR, BOR, Lab Toxicity, Overall Survival.
 * **Listings (5):** Subject Listing, AE Listing, Lab Results, Tumor Response, Time-to-Event.
 * **Figures (3):** KM Plot (OS), KM Plot (PFS), Bar Chart (Best Overall Response) using `PROC SGPLOT` & `PROC LIFETEST`.
-
 
 ---
 
