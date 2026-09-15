@@ -1,5 +1,13 @@
 # 🚀 "End-To-End Statistical Programming And Transformation Of Raw Data To CDISC Standards (SDTM ADaM,TLFs) For Synthetic OncologyClinical Trial Data Using SAS OnDemand.
 
+---
+
+## 📋 Project Overview
+**"End-To-End Statistical Programming And Transformation Of Raw Data To CDISC Standards (SDTM, ADaM, TLFs) For Synthetic Oncology Clinical Trial Data Using SAS OnDemand®"**
+
+This project showcases a complete, industry-standard clinical data transformation workflow for a **Phase III Oncology (Lung Cancer) clinical trial (ONCO-PEMBRO-500)** using Base SAS and SAS OnDemand. It demonstrates end-to-end CDISC implementation from simulated raw data to SDTM mapping, ADaM analysis-ready datasets, and regulatory-compliant TLFs with QC validation.
+
+---
 
 ## 🏛️ Academic & Institutional Details
 * **College:** Dr. N. J. Paulbudhe College of Pharmacy, Savedi, Ahilyanagar, Maharashtra – 414003
@@ -66,6 +74,8 @@
 7. **7. TLF Statistical Output** - Generate regulatory-compliant Tables, Listings, and Figures (TLFs)
 8. **8. Quality Control & Validation** - Perform QC validation and independent program checks
 9. **9. Thesis - Clinical SAS Project** - M.Pharm clinical research project thesis documentation
+
+---
 
 
 
