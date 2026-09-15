@@ -1,5 +1,5 @@
 # 🚀 "End-To-End Statistical Programming And Transformation Of Raw Data To CDISC Standards ( SDTM, ADaM, TLFs ) For Synthetic Oncology
- Clinical Trial Data Using SAS OnDemand<img width="1431" height="190" alt="image" src="https://github.com/user-attachments/assets/14adb222-f767-411c-9cb5-67a2304919e2" />
+ Clinical Trial Data Using SAS OnDemand.
 
 
 ## 🏛️ Academic & Institutional Details
