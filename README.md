@@ -20,6 +20,7 @@ This project showcases a complete, industry-standard clinical data transformatio
 ---
 
 ## 🎯 Aim & Objectives
+
 * **Aim:** To develop an end-to-end SAS Programming framework for the statistical analysis of synthetic oncology clinical data in compliance with CDISC Standards.
 * **Objectives:**
   1. **Import & Map:** Raw Data to SDTM Standards.
