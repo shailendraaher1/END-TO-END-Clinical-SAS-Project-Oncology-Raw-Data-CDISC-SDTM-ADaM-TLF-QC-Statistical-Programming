@@ -33,6 +33,9 @@ This project showcases a complete, industry-standard clinical data transformatio
 ## 🔬 Study Design & Protocol Comparison
 * **Protocol ID:** ONCO-PEMBRO-500 (Simulated Advanced Scenario) vs. KEYNOTE-024 (NCT02142738 Original Reference)
 * **Study Phase:** Phase III, Randomized, Double-Blind (Expanded for Power, $N = 500$)
+  
+  <br>
+  
 * **Treatment Arms:** 
   * *Arm A (Test):* Pembrolizumab (200 mg) + Platinum Chemo
   * *Arm B (Control):* Placebo + Platinum Chemo
@@ -135,6 +138,9 @@ This project showcases a complete, industry-standard clinical data transformatio
 * **Summary of Side Effects:** 
   * *Subjects with TEAE:* Arm A ($69.2\%$) vs. Arm B ($77.2\%$).
   * *Serious Adverse Events (SAE):* Arm A ($32.0\%$) vs. Arm B ($34.8\%$).
+    
+    <br>
+    
 * **Key Findings:** 
   * **Better Profile:** SAS analysis confirms Pembrolizumab (Arm A) has fewer side effects compared to Chemotherapy (Arm B).
   * **Programming Accuracy:** **SAS PROC REPORT** was used to ensure percentage calculations match the ITT (Intent-to-Treat) population count.
@@ -212,8 +218,5 @@ This project showcases a complete, industry-standard clinical data transformatio
 * **Role:** Clinical SAS Programmer (Fresher) | CDISC SDTM, ADaM, TLF | Oncology Clinical Trial Specialist
 * **Email:** [shailendraaher21@gmail.com](mailto:shailendraaher21@gmail.com)
 * **LinkedIn:** [linkedin.com/in/shailendra-aher](https://www.linkedin.com/in/shailendra-aher)
-
----
-
 
 ---
